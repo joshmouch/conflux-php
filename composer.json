@@ -1,0 +1,14 @@
+{
+  "name": "conflux/conflux",
+  "description": "Metadata-only coordinate scaffold reserved for Conflux.",
+  "type": "metapackage",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Josh Mouch"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/joshmouch/conflux-php"
+  }
+}
